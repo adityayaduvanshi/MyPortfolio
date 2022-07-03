@@ -1,0 +1,77 @@
+// blog data
+
+export const Blogs = [
+  {
+    id: 1,
+    name: "How JavaScript Works behind the scenes?",
+    tags: ["javascript", "webdevelopment", "programming"],
+    date: "Dec 28, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*dnbk_d4BSiIJ8ZRdfog8jg.jpeg",
+    link: "https://medium.com/dev-genius/how-javascript-works-behind-the-scenes-88c546173f32",
+  },
+  {
+    id: 2,
+    name: "Inside the JavaScript Engine",
+    tags: ["javascript", "webdevelopment"],
+    date: "Feb 4, 2022",
+    imgSrc: "https://miro.medium.com/max/875/0*ZOKFlKSD6V3lPDIC.png",
+    link: "https://medium.com/dev-genius/inside-the-javascript-engine-bb7b9f26e84b",
+  },
+  {
+    id: 3,
+    name: "What is REST API?",
+    tags: ["api", "rest-api", "webdevelopment"],
+    date: "Sep 16, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*eLBvW0PFIQEeg0fZuMhzyA.jpeg",
+    link: "https://medium.com/dev-genius/what-is-rest-api-466cbc112916",
+  },
+  {
+    id: 4,
+    name: "Wavy Background with CSS & SVG",
+    tags: ["css", "svg", "webdesign"],
+    date: "26 May, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*tTLnlN752XY-soDP4jHGaw.png",
+    link: "https://medium.com/dev-genius/wavy-background-with-css-svg-4910821c2b87",
+  },
+  {
+    id: 5,
+    name: "Concurrency, Multi-threading, Multi-processing, Asynchronous Programming and Event Loop",
+    tags: ["programming", "multithreading", "eventloop"],
+    date: "Sep 6, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*fwtaFBZ2kP7lEdfIOpH3uA.jpeg",
+    link: "https://medium.com/dev-genius/concurrency-multi-threading-multi-processing-asynchronous-programming-and-event-loop-1b8df9fa6c20",
+  },
+  {
+    id: 6,
+    name: "Inside the JavaScript Runtime Environment",
+    tags: ["javascript", "webdevelopement", "js"],
+    date: "May 13, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*Shk_5yhp2D-cWi40_4X4ow.jpeg",
+    link: "https://medium.com/dev-genius/inside-the-javascript-runtime-environment-457c02100827",
+  },
+
+  {
+    id: 7,
+    name: "How CPU works and Why is Apple Silicon M1 faster than Intel i9?",
+    tags: ["cpu", "apple", "intel"],
+    date: "Oct 28, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*AeY5hthkDW-v3JDVCPpiAg.jpeg",
+    link: "https://medium.com/dev-genius/how-cpu-works-and-why-apple-silicon-is-faster-than-intel-i9-8b9303a98dca",
+  },
+  {
+    id: 8,
+    name: "What is Web 3.0?",
+    tags: ["webdev", "web3"],
+    date: "Dec 7, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*UjW3ALypAgX44oZbxbg7uQ.jpeg",
+    link: "https://medium.com/dev-genius/what-is-web-3-0-2be70e587bed",
+  },
+  {
+    id: 8,
+    name: "What is MongoDB & Mongoose?",
+    tags: ["database", "mongodb", "mongoose"],
+    date: "Oct 21, 2021",
+    imgSrc: "https://miro.medium.com/max/875/1*1-dE6Rswvz4frgF8uKl4IA.jpeg",
+    link: "https://medium.com/dev-genius/what-is-mongodb-mongoose-17e0af3191ad",
+  },
+];
